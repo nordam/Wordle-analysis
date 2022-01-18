@@ -25,7 +25,7 @@ However, the word **TARES** does far better at finding correct letters in the co
 
 ### Table with a few more results
 
-|  | Correct letters | Correct letters in correct place |
+|  | Correct letters in correct place | Correct letters |
 | :---: | :---: | :---: |
 | AEROS | 0.63360 | 2.15179 |
 | AESIR | 0.34312 | 2.09944 |
