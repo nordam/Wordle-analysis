@@ -19,9 +19,9 @@ Then, a more detailed analysis of possible first guesses:
 
 ## Results
 
-The words AEROS, AROSE, and SOARE (all consisting of the five most common letters) can expect to find 2.15 correct letters on average, with AEROS being the best option as it has an expectation value of 0.63 correct letters in the correct place.
+The words **AEROS**, **AROSE**, and **SOARE** (all consisting of the five most common letters) can expect to find **2.15** correct letters on average, with AEROS being the best option as it has an expectation value of **0.63** correct letters in the correct place.
 
-However, the word TARES does far better at finding correct letters in the correct place, with an expectation value of 0.81, and only slightly lower expectation value for number of correct letters, at 2.06.
+However, the word **TARES** does far better at finding correct letters in the correct place, with an expectation value of **0.81**, and only slightly lower expectation value for number of correct letters, at **2.06**.
 
 ### Table with a few more results
 
